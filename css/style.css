@@ -145,7 +145,7 @@ body {
 
 .header__2 {
   padding: 0;
-  background: url(./img/01/background.png) no-repeat;
+  background: url(../img/01/background.png) no-repeat;
   background-size: 100% 100%;
 }
 @media (max-width: 1200px) {
@@ -329,8 +329,8 @@ body {
 .why_size {
   width: 337.4px;
   height: 210px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url(./img/04/video.png) 100% no-repeat;
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(./img/04/video.png) 100% no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url(../img/04/video.png) 100% no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../img/04/video.png) 100% no-repeat;
 }
 .why__choose {
   max-width: 625px;
@@ -358,19 +358,19 @@ body {
   list-style-type: none;
 }
 .contact__item_01 {
-  background: url(./img/06/01.svg) left no-repeat;
+  background: url(../img/06/01.svg) left no-repeat;
   padding-left: 30px;
 }
 .contact__item_02 {
-  background: url(./img/06/02.svg) left no-repeat;
+  background: url(../img/06/02.svg) left no-repeat;
   padding-left: 30px;
 }
 .contact__item_03 {
-  background: url(./img/06/03.svg) left no-repeat;
+  background: url(../img/06/03.svg) left no-repeat;
   padding-left: 30px;
 }
 .contact__item_04 {
-  background: url(./img/06/04.svg) left no-repeat;
+  background: url(../img/06/04.svg) left no-repeat;
   padding-left: 30px;
 }
 
